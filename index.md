@@ -33,7 +33,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 #### News and Updates
 
-- [长期有效]：2025级硕士研究生招生尚有两个名额，欢迎各位保研同学及广大考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
+- [长期有效]：2026级硕士研究生招生尚有两个名额，欢迎各位保研同学及广大考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
 
 - 2024-09-09：欢迎2024级研究生冯焱，胡毅灏正式加入实验室，祝愿你们在LiLAB乘Li想之马，策马扬鞭，功不唐捐。
 
