@@ -35,6 +35,8 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 - [长期有效]：2026级硕士研究生招生尚有两个名额，欢迎各位保研同学及广大考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
 
+- 2025-07-22：本实验成员向宇，杨燕翎，冯焱在第二十届中国研究生电子设计竞赛商业计划书专项赛初赛中取得三等奖，详见：https://cpipc.acge.org.cn/sysFile/downFile.do?fileId=fe28ae586a734be8adcfb99d230be9d1
+  
 - 2024-09-09：欢迎2024级研究生冯焱，胡毅灏正式加入实验室，祝愿你们在LiLAB乘Li想之马，策马扬鞭，功不唐捐。
 
 - 2024-08-16：本实验室（李忘言、向宇）和李佳珈老师赴澳大利亚进行为期3周的[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)（[照片](https://usst-lilab.github.io/images/index/shisheng.jpg)）。
