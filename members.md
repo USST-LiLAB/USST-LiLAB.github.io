@@ -4,7 +4,7 @@ permalink: /members/index.html
 title: members
 ---
 
-#### LAB Leader
+#### LAB Leader/ 课题组组长
 
 ####  Wangyan Li 李忘言
 
