@@ -33,9 +33,12 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 #### News and Updates
 
-- [长期有效]：2027级硕士研究生招生尚有两个名额，欢迎各位保研同学及考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>。注：因本课题组有一个实验室，故对出勤率有一定的要求：工作日工作时间（8:30-17:00）（除上课外）须在实验室。如对此项要求不认同，请勿联系。
+- [长期有效]：2027级硕士研究生招生尚有两个名额，欢迎各位保研同学及考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>。
 
-- [课题组论文速递]：Biomedical Signal Processing and Control：[基于多尺度拉普拉斯金字塔的腹腔镜手术自监督单目深度估计](https://jcxb.usst.edu.cn/2026/0306/c18118a363968/page.htm)
+  注：因本课题组有一个实验室，故对出勤率有一定的要求：工作日工作时间（8:30-17:00）（除上课外）须在实验室。如对此项要求不认同，请勿联系。
+
+- [课题组论文速递]：Biomedical Signal Processing and Control：[基于多尺度拉普拉斯金字塔的腹腔镜手术自监督单目深度估计](https://jcxb.usst.edu.cn/2026/0306/c18118a363968/page.htm)；
+  
   Engineering：[智能制造时代的厂级工业过程故障检测与诊断新视角](https://jcxb.usst.edu.cn/2025/1211/c18118a363980/page.htm)
   
 - 2025-09-15：欢迎2025级研究生陆畅、萧学文正式加入实验室，祝愿你们在LiLAB乘Li想之马，策马扬鞭，功不唐捐。
