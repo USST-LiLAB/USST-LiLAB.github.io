@@ -40,6 +40,8 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 - [课题组论文速递]：Biomedical Signal Processing and Control：[基于多尺度拉普拉斯金字塔的腹腔镜手术自监督单目深度估计](https://jcxb.usst.edu.cn/2026/0306/c18118a363968/page.htm)；
   
   Engineering：[智能制造时代的厂级工业过程故障检测与诊断新视角](https://jcxb.usst.edu.cn/2025/1211/c18118a363980/page.htm)
+
+- 2026-04-01: 实验室本科生罗亚歆同学同时荣获校级及上海市优秀毕业生称号、研究生向宇获学部优秀毕业生称号。
   
 - 2025-09-15：欢迎2025级研究生陆畅、萧学文正式加入实验室，祝愿你们在LiLAB乘Li想之马，策马扬鞭，功不唐捐。
 
