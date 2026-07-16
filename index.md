@@ -37,9 +37,10 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
   注：因本课题组有一个实验室，故对出勤率有一定的要求：工作日工作时间（8:30-17:00）（除上课外）须在实验室。如对此项要求不认同，请勿联系。
 
-- [课题组论文速递]：Biomedical Signal Processing and Control：[基于多尺度拉普拉斯金字塔的腹腔镜手术自监督单目深度估计](https://jcxb.usst.edu.cn/2026/0306/c18118a363968/page.htm)；
-  
-  Engineering：[智能制造时代的厂级工业过程故障检测与诊断新视角](https://jcxb.usst.edu.cn/2025/1211/c18118a363980/page.htm)
+- [课题组论文速递]：
+- IEEE Systems Journal：[切换图下的分布式贝叶斯估计问题研究](https://jcxb.usst.edu.cn/2026/0714/c18118a368650/page.htm)
+- Biomedical Signal Processing and Control：[基于多尺度拉普拉斯金字塔的腹腔镜手术自监督单目深度估计](https://jcxb.usst.edu.cn/2026/0306/c18118a363968/page.htm)；
+- Engineering：[智能制造时代的厂级工业过程故障检测与诊断新视角](https://jcxb.usst.edu.cn/2025/1211/c18118a363980/page.htm)
 
 - 2026-04-01: 实验室本科生罗亚歆同学同时荣获校级及上海市优秀毕业生称号、研究生向宇获学部优秀毕业生称号。
   
