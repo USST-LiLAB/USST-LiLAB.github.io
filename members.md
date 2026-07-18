@@ -11,7 +11,7 @@ title: members
 <img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="360" height="480">
 
 - 副教授，硕士生导师，青年东方学者
-- 金主爸爸: [上海理工大学理学院数学系](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)
+- 单位: [上海理工大学基础学部数学学院](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)
 - 工作学习经历: [LinkedIn](https://www.linkedin.com/in/wangyan-li-69794692/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 学术表现: [Google Scholar](https://scholar.google.com/citations?user=UemwIpIAAAAJ)
 - 不学无术表现: [小红书](https://www.xiaohongshu.com/user/profile/5fefb40a0000000001005894?xhsshare=WeixinSession&appuid=5fefb40a0000000001005894&apptime=1713936430)
@@ -233,32 +233,6 @@ title: members
   
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 生活想埋没我，不料我是颗种子
-
----
-
-
-
-<img src="https://usst-lilab.github.io/images/teams/lixinhao.jpg" class="floatpic" width="50" height="75">
-
-
-
-- Xinhao Li 李鑫豪
-
-  
-
-- 专业：数学
-
-  
-
-- 爱好：游戏，学习
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2971592350@qq.com"> 2971592350@qq.com
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 比昨天更好一些，比明天更差一些
 
 ---
 
