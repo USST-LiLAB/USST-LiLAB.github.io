@@ -44,6 +44,8 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 - 2026-04-01: 实验室本科生罗亚歆同学同时荣获校级及上海市优秀毕业生称号、研究生向宇获学部优秀毕业生称号。
   
+- 2025-11-22: 由本实验室承办的《2025上海理工大学理学院 沪江*优化与控制论坛》成功举办。详见：https://jcxb.usst.edu.cn/2025/1125/c18118a363988/page.htm
+  
 - 2025-09-15：欢迎2025级研究生陆畅、萧学文正式加入实验室，祝愿你们在LiLAB乘Li想之马，策马扬鞭，功不唐捐。
 
 - 2025-07-22：本实验成员向宇，杨燕翎，冯焱在第二十届中国研究生电子设计竞赛商业计划书专项赛初赛中取得三等奖，详见：https://cpipc.acge.org.cn/sysFile/downFile.do?fileId=fe28ae586a734be8adcfb99d230be9d1
