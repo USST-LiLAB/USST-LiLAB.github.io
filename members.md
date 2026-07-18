@@ -125,87 +125,6 @@ title: members
   
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 幸运就在明天！
-
----
-
-
-
-##### @2022
-
-<img src="https://usst-lilab.github.io/images/teams/wulifeng.jpg" class="floatpic" width="50" height="75">
-
-
-
-- Lifeng Wu 吴励锋
-
-  
-
-- 研究方向：无人机
-
-  
-
-- 爱好：学习
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:hcxygxgn@163.com"> hcxygxgn@163.com
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 恭谦温良，知行合一
-
----
-
-
-
-<img src="https://usst-lilab.github.io/images/teams/songjian.jpg" class="floatpic" width="50" height="75">
-
-
-
-- Jian Song 宋健
-
-  
-
-- 研究方向：model-based fault diagnosis
-
-  
-
-- 爱好：篮球
-
-  
-
-- [ORCID: 0009-0009-9848-1183](https://orcid.org/0009-0009-9848-1183)
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 经事长智，历事成人
-
----
-
-
-
-<img src="https://usst-lilab.github.io/images/teams/lisirui.jpg" class="floatpic" width="50" height="75">
-
-
-
-- Sirui Li 李思睿
-
-  
-
-- 研究方向：data-driven fault diagnosis
-
-  
-
-- 爱好：烘焙
-
-  
-
-- [ORCID: 0009-0004-8494-6799](https://orcid.org/0009-0004-8494-6799)
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 凡是过往，皆为序章
-
 ---
 
 
@@ -237,10 +156,19 @@ title: members
 ---
 
 #### Alumni (毕业生)
-
+-- 研究生
 - Yuru Hu (胡玉如)
 - Xiaomao Geng (耿小毛)
+- Lifeng Wu (吴励锋）
+- Jian Song （宋健）
+- Sirui Li （李思睿）
+- Yu xiang (向宇）
+- Yanling Yang (杨燕翎）
 
+-- 本科生
+- 罗雅欣
+- 沈扬
+- 冯圆
 ---
 
 #### Some Group Photos
