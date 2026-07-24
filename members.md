@@ -19,6 +19,55 @@ title: members
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 质疑学生，理解学生，成为学生，超越学生
 
 #### Members
+
+##### @2026
+<img src="https://usst-lilab.github.io/images/teams/SUN2026.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Qihan Sun 孙颀涵
+
+  
+
+- 研究方向：xxx
+
+  
+
+- 爱好：徒步，爬山
+
+  
+
+- [ORCID: 0009-xxxx-xxxx-xxxx](https://orcid.org/0009-xxxx-xxxx-xxxx)
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 知命不惧，日日自新
+
+---
+
+<img src="https://usst-lilab.github.io/images/teams/ZHANG2026.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Jialong Zhang 张家龙
+
+  
+
+- 研究方向：xxx
+
+  
+
+- 爱好：篮球，乒乓球
+
+  
+
+- [ORCID: 0009-xxxx-xxxx-xxxx](https://orcid.org/0009-xxxx-xxxx-xxxx)
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 努力不负自己，得失顺其自然
+
+---
 ##### @2025
 
 <img src="https://usst-lilab.github.io/images/teams/LU2025.png" class="floatpic" width="50" height="75">
