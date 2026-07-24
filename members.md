@@ -30,7 +30,11 @@ title: members
 
 - 研究方向：故障检测与诊断
 
+
+
 - 爱好：羽毛球
+
+
 
 - [ORCID: 0009-0005-4385-3868](https://orcid.org/0009-0005-4385-3868)
 
@@ -48,13 +52,16 @@ title: members
 
 - 研究方向：无人机
 
+
 - 爱好：篮球
+
 
 - [ORCID: 0009-0008-4436-2691](https://orcid.org/0009-0008-4436-2691)
 
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 日日自新
 
+-----
 ##### @2024
 
 <img src="https://usst-lilab.github.io/images/teams/fengyan.jpg" class="floatpic" width="50" height="75">
