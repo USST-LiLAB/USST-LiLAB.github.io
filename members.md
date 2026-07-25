@@ -21,7 +21,7 @@ title: members
 #### Members
 
 ##### @2026
-<img src="https://usst-lilab.github.io/images/teams/SUN2026.jpg" class="floatpic" width="50" height="75">
+<img src="https://usst-lilab.github.io/images/teams/SUN2026.png" class="floatpic" width="50" height="75">
 
 
 
@@ -45,7 +45,7 @@ title: members
 
 ---
 
-<img src="https://usst-lilab.github.io/images/teams/ZHANG2026.jpg" class="floatpic" width="50" height="75">
+<img src="https://usst-lilab.github.io/images/teams/ZHANG2026.png" class="floatpic" width="50" height="75">
 
 
 
