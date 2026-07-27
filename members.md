@@ -221,6 +221,29 @@ title: members
 
 
 ##### @本科生
+<img src="https://usst-lilab.github.io/images/teams/HU2026.png" class="floatpic" width="50" height="75">
+
+
+
+- Bowie 胡莹烨
+
+  
+
+- 研究方向：基于坐标变换的Gazebo-SLAM场景数据三维配准与可视化研究 
+
+  
+
+- 爱好：玩鹅鸭杀
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2330544480@qq.com"> hu2450099405@outlook.com
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 好好体验每一天
+
+---
 
 <img src="https://usst-lilab.github.io/images/teams/luoyaxin.jpg" class="floatpic" width="50" height="75">
 
