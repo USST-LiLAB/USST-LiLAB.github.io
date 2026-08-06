@@ -11,12 +11,12 @@ title: members
 <img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="360" height="480">
 
 - 副教授，硕士生导师，青年东方学者
-- 单位: [上海理工大学基础学部数学学院](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)
+- 单位: [上海理工大学基础学部数学学院](https://jcxb.usst.edu.cn/2026/0608/c18155a366244/page.htm)
 - 工作学习经历: [LinkedIn](https://www.linkedin.com/in/wangyan-li-69794692/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 学术表现: [Google Scholar](https://scholar.google.com/citations?user=UemwIpIAAAAJ)
 - 不学无术表现: [小红书](https://www.xiaohongshu.com/user/profile/5fefb40a0000000001005894?xhsshare=WeixinSession&appuid=5fefb40a0000000001005894&apptime=1713936430)
 - <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
-- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 质疑学生，理解学生，成为学生，超越学生
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 
 
 #### Members
 
