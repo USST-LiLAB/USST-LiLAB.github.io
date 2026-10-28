@@ -78,8 +78,6 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 - 2024-04-23：多源数据融合与分析实验中心官网试运行。
 
-- 2024-02-26：LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见 [BAJC Conference](https://www.unsw.edu.au/news/2024/02/shen-lab-sends-delegates-to-bajc-conference-2024)。
-
 - 2024-02：由 Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang 共同完成的期刊论文 [*<u>Chernoff fusion using observability Gramian-centric weighting</u>*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=) 被 *Information Sciences* 接收。
 
 - 2023-06：由 Yuru Hu, Wangyan Li, Lifeng Wu, Guoliang Wei 共同完成的会议论文 [*<u>A Novel Observability Gramian-Based SLAM</u>*](https://ieeexplore.ieee.org/abstract/document/10239782) 被 *The 42nd Chinese Control Conference* ([CCC 2023](https://ccc2023.nankai.edu.cn/)) 接收。
